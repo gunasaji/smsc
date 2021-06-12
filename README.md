@@ -25,7 +25,7 @@ Cara menjalankan:
 
     composer-rest-server
 admin@smsc
->never use name spaces
+never use name spaces
 no
 no
 yes
