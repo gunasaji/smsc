@@ -1,0 +1,3 @@
+# smsc
+
+SMS Classifier App
