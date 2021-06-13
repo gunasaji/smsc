@@ -14,7 +14,7 @@ Cara menjalankan:
     
     ./createPeerAdminCard.sh
     
-    cd ~/downloads/smsc
+    cd ~/Downloads/smsc
     
     composer network install --card PeerAdmin@hlfv1 --archiveFile smsc@0.0.1.bna
     
@@ -25,6 +25,8 @@ Cara menjalankan:
     composer network ping --card admin@smsc
 
 2. REST API:
+
+    cd SMSC-App
 
     composer-rest-server
     
