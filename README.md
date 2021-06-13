@@ -26,8 +26,6 @@ Cara menjalankan:
 
 2. REST API:
 
-    cd SMSC-App
-
     composer-rest-server
     
 admin@smsc
@@ -51,5 +49,7 @@ no
 
 3. WebApp: 
 cd SMSC-App
+
 npm start
+
 --> cek di localhost:4200
