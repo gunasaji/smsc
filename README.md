@@ -53,3 +53,8 @@ cd SMSC-App
 npm start
 
 --> cek di localhost:4200
+
+4. Client-side app:
+
+streamlit run ~/Downloads/smsc/streamlit/classifier.py
+-->Dataset ada di file smsc
