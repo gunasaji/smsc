@@ -22,7 +22,7 @@ Cara menjalankan:
     
     composer card import --file networkadmin.card
     
-    composer network ping --card admin@tutorial-network
+    composer network ping --card admin@smsc
 
 2. REST API:
 
